@@ -1,0 +1,30 @@
+SOAP MACTAVISH — SITE TF-141 / DIRECTION ARTISTIQUE « SIGNAL »
+
+CONTENU
+- index.html : contenu du site et identité SOAP MACTAVISH
+- style.css : thème SIGNAL repris de la charte des overlays TF-141
+- script.js : menu mobile, animations, lecteur Twitch et ambiance sonore synthétique
+- soldier-bg.png : image de fond
+- assets/tf141-insigne.png : insigne fourni dans le ZIP des overlays
+
+DIRECTION ARTISTIQUE
+- Carbone / noir froid : #07080A, #0D0F12, #15181D
+- Blanc os : #EDEBE4
+- Jaune signal : #FFC21A (accent principal)
+- Rouge direct : #FF3D2E (réservé au voyant EN DIRECT)
+- Typographies : Big Shoulders Display, Barlow Semi Condensed et JetBrains Mono
+- Panneaux à coins coupés, traits fins, trame de points et balayage discret
+
+INSTALLATION
+1. Décompressez le ZIP dans un nouveau dossier.
+2. Ouvrez index.html dans votre navigateur.
+3. Pour publier le site, envoyez les fichiers du dossier sur votre hébergement (par exemple GitHub Pages).
+
+AMBIANCE SONORE
+Une ambiance cinématique synthétique originale démarre à la première interaction avec la page (clic, toucher ou touche clavier), puis continue pendant la visite.
+Les navigateurs bloquent généralement le son automatique avant toute interaction.
+
+LECTEUR TWITCH
+Le lecteur peut ne pas fonctionner via file://. Sur un site publié, le script adapte automatiquement le paramètre parent au nom de domaine.
+
+Les liens sociaux et le contenu existant sont conservés.
